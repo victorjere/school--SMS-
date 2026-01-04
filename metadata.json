@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SchoolUp",
+  "description": "A comprehensive School Management System for Zambian primary and secondary schools featuring role-based dashboards, fee management, academic tracking, and timetable building.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
